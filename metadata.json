@@ -1,0 +1,5 @@
+{
+  "name": "UTokyo English Listening Mock Test Generator",
+  "description": "An automated system to generate and play UTokyo-style English listening exams from YouTube audio sources, featuring 2x playback with 30s intervals and AI-generated questions.",
+  "requestFramePermissions": []
+}
